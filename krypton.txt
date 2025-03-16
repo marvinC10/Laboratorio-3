@@ -1,0 +1,16 @@
+
+ krypton 0 → 1: KRYPTONISGREAT
+
+ krypton 1 → 2: ROTTEN
+
+ krypton 2 → 3: CAESARISEASY
+
+ krypton 3 → 4: BRUTE
+
+ krypton 4 → 5: CLEARTEXT
+
+ krypton 5 → 6: RANDOM
+
+ krypton 6 → 7: LFSRISNOTRANDOM
+
+ 
